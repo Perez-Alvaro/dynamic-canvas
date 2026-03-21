@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import data from "../data/portfolio.json";
 
-const easing = [0.25, 0.1, 0.25, 1];
+const easing = [0.25, 0.1, 0.25, 1] as const;
 
 const About = () => (
   <section className="max-w-7xl mx-auto px-6 py-20 md:py-32">
