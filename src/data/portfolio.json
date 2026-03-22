@@ -1,9 +1,9 @@
 {
   "profile": {
     "name": "Álvaro",
-    "role": "Frontend Developer & UI/UX Designer",
-    "location": "Madrid, ES",
-    "email": "hola@alvaro.dev"
+    "role": "Frontend Developer & Analista Funcional",
+    "location": "Córdoba, Argentina",
+    "email": "perezalvaroraul26@gmail.com"
   },
   "navigation": [
     { "label": "Proyectos", "href": "#projects" },
@@ -11,76 +11,79 @@
     { "label": "Contacto", "href": "#contact" }
   ],
   "hero": {
-    "title": "Interfaces que se sienten correctas.",
-    "subtitle": "Frontend Developer & UI/UX Designer",
-    "description": "Especializado en construir productos digitales con un enfoque obsesivo en el detalle, el rendimiento y la experiencia de usuario.",
-    "cta": "Ver Proyectos",
+    "title": "Hola, soy Álvaro",
+    "subtitle": "Frontend Developer & Analista Funcional",
+    "description": "Me apasiona trabajar en equipo, liderar proyectos y construir experiencias digitales enfocadas en el usuario.",
+    "cta": "Ver proyectos",
     "ctaHref": "#projects",
-    "secondaryCta": "Contacto",
+    "secondaryCta": "Contactar",
     "secondaryCtaHref": "#contact"
   },
   "about": {
-    "title": "Bring Ideas to Life Through Design",
-    "description": "Soy un diseñador UI con más de 8 años de experiencia creando interfaces atractivas para web y aplicaciones móviles. Priorizo la experiencia de usuario y me mantengo actualizado con las últimas tendencias y tecnologías. Trabajo de forma colaborativa con clientes y equipos para asegurar que cada proyecto cumpla las necesidades únicas del cliente.",
+    "title": "Sobre mí",
+    "description": "Soy estudiante de Ingeniería en Sistemas de Información con experiencia en desarrollo frontend, análisis funcional y diseño UX/UI. Me gusta integrar tecnología con diseño centrado en el usuario para crear soluciones reales.",
     "closingLine": "¡Creemos algo increíble juntos!"
   },
   "skills": [
-    { "name": "React" },
-    { "name": "TypeScript" },
-    { "name": "Tailwind CSS" },
-    { "name": "Framer Motion" },
-    { "name": "UI Design" },
-    { "name": "Prototyping" }
+    { "name": "React JS" },
+    { "name": "JavaScript" },
+    { "name": "HTML" },
+    { "name": "CSS" },
+    { "name": "SQL Server" },
+    { "name": "Python" },
+    { "name": "Sequelize ORM" },
+    { "name": "Metodologías Ágiles" },
+    { "name": "Node.js" },
+    { "name": "Figma" }
   ],
   "projects": [
     {
       "id": "01",
-      "title": "Landing Page MZ",
+      "title": "Fitter",
       "category": "Web Design",
-      "date": "Ene - Mar 2023",
-      "role": "UI Designer",
-      "description": "Sitio moderno con animaciones fluidas y alto rendimiento.",
-      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&q=80&w=800",
-      "link": "https://mz.design",
+      "date": "",
+      "role": "Frontend Developer",
+      "description": "Sistema web que automatiza la venta y entrega de planes de entrenamiento predefinidos.",
+      "image": "/card---element-desktop.png",
+      "link": "https://example.com",
       "size": "lg"
     },
     {
       "id": "02",
-      "title": "Fintech Dashboard",
-      "category": "App",
-      "date": "May - Dic 2023",
-      "role": "Lead Designer",
-      "description": "Visualización de datos complejos con diseño intuitivo y experiencia fluida.",
-      "image": "https://images.unsplash.com/photo-1551288049-bbbda536339a?auto=format&fit=crop&q=80&w=800",
-      "link": "#",
+      "title": "Clare",
+      "category": "Ecommerce",
+      "date": "",
+      "role": "Frontend Developer",
+      "description": "Landing page y ecommerce para emprendimiento de santería. Sistema completo de catálogo, carrito de compras y gestión de productos.",
+      "image": "/card---element-desktop-2.png",
+      "link": "https://example.com",
       "size": "md"
     },
     {
       "id": "03",
-      "title": "E-commerce UI",
-      "category": "Product",
-      "date": "Ene - Abr 2022",
-      "role": "Lead Designer",
-      "description": "Experiencia de compra minimalista y elegante.",
-      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=800",
-      "link": "#",
+      "title": "Prototipo funcional GRIND",
+      "category": "UX/UI",
+      "date": "",
+      "role": "UX/UI Designer",
+      "description": "Proyecto UX/UI de diseño de interfaces mobile Android, uso de wireframes, UI kit y diseño centrado en el usuario.",
+      "image": "/card---element-desktop-1.png",
+      "link": "https://example.com",
       "size": "md"
     },
     {
       "id": "04",
-      "title": "StockCoin App",
-      "category": "Fintech",
-      "date": "Ene - Dic 2021",
-      "role": "UI Designer",
-      "description": "Trading intuitivo con diseño limpio para decisiones informadas.",
-      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&q=80&w=800",
-      "link": "#",
+      "title": "HydroSense",
+      "category": "IoT",
+      "date": "",
+      "role": "Frontend Developer",
+      "description": "Dashboard operacional para un sistema hidropónico que permite monitorear y controlar los parámetros del sistema utilizando sensores IoT.",
+      "image": "/image-254.png",
+      "link": "https://example.com",
       "size": "md"
     }
   ],
   "socials": [
     { "platform": "GitHub", "url": "https://github.com" },
-    { "platform": "LinkedIn", "url": "https://linkedin.com" },
-    { "platform": "Twitter", "url": "https://twitter.com" }
+    { "platform": "LinkedIn", "url": "https://linkedin.com/in/alvaro-perez-912439268" }
   ]
 }
